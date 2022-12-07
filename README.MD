@@ -1,4 +1,4 @@
-# Explicando
+# Explicando - RESERVA DE RESTAURANTE
 
 O programa foi criado para gerenciar reservas de um determinado restaurante fazendo
 o controle através das reservas feitas a partir dos cadastros dos cliente, onde é possível 
