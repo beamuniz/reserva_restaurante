@@ -1,11 +1,11 @@
-# Explicando - RESERVA DE RESTAURANTE
+# Explicando - Reserva de Restaurante IFSP
 
 O programa foi criado para gerenciar reservas de um determinado restaurante fazendo
 o controle através das reservas feitas a partir dos cadastros dos cliente, onde é possível 
 determinar o número de pessoas que pretendem comparecer.
 
 Para realizar a execução do programa são necessários a
-importação das bibliotecas disponíveis no arquivo *"requeriments"* :
+importação das bibliotecas disponíveis no arquivo *"requeriments.txt"* :
 ```
 SQLAlchemy
 Matplotlib
